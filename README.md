@@ -12,4 +12,8 @@
 логин admin
 gfhjkm 12345678
 
-Articles.postman_collection.json описание и тксты API
+#API
+вся документация в Postman
+скачиваем https://www.postman.com/
+
+импортируем Articles.postman_collection.json 
