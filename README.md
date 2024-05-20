@@ -7,6 +7,7 @@
 остановить $ docker-compose down 
 
 приложение доступно http://127.0.0.1:8000/
+phpMyAdmin http://127.0.0.1:8888
 
 админка http://127.0.0.1:8000/admin
 логин admin
